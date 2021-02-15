@@ -1,0 +1,10 @@
+{
+  "name": "Quiz_javascriptPuro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Diniz <ferreiradiniz@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "standard": "^16.0.3"
+  }
+}
